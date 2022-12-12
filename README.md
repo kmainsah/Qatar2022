@@ -1,5 +1,5 @@
 # Qatar2022
-******Analyzing FIFA World Cup Teams******
+**Analyzing FIFA World Cup Teams**
 
 **Introduction:**
 Streamlit App: _____
