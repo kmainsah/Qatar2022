@@ -1,31 +1,31 @@
 # Qatar2022
-Analyzing FIFA World Cup Teams
+******Analyzing FIFA World Cup Teams******
 
-Introduction:
+**Introduction:**
 Streamlit App: _____
 
-Research Question: 
+**Research Question: **
 	1. What were the rankings of each of the 32 World Cup teams leading up to the Qatar World Cup?
 	2. What are the respective ratings of each team? 
 
-In this app:
-	-You will be able to navigate across 8 tabs, analyzing the 32 teams in the 2023 FIFA World Cup in their respective groups.
+**In this app:**
+You will be able to navigate across 8 tabs, analyzing the 32 teams in the 2023 FIFA World Cup in their respective groups.
 	
-		-Group A: Senegal, Qatar, Netherlands, Ecuador
-		-Group B: Iran, England, USA, Wales
-		-Group C: Argentina, Saudi Arabia, Mexico, Poland
-		-Group D: Denmark, Tunisia, France, Australia
-		-Group E: Germany, Japan, Spin, Costa Rica
-		-Group F: Morocco, Croatia, Belgium, Canada
-		-Group G: Switzerland, Cameroon, Brazil, Serbia
-		-Group H: Uruguay, South Korea Portugal, Ghana
+		Group A: Senegal, Qatar, Netherlands, Ecuador
+		Group B: Iran, England, USA, Wales
+		Group C: Argentina, Saudi Arabia, Mexico, Poland
+		Group D: Denmark, Tunisia, France, Australia
+		Group E: Germany, Japan, Spin, Costa Rica
+		Group F: Morocco, Croatia, Belgium, Canada
+		Group G: Switzerland, Cameroon, Brazil, Serbia
+		Group H: Uruguay, South Korea Portugal, Ghana
 
 
 	From there, you will be able to analyze the following from each team:
-		-FIFA Rankings over leading up to the Qatar World Cup
-		-Goalkeeper, Defensive, Midfield, and Offensive Scores
+		FIFA Rankings over leading up to the Qatar World Cup
+		Goalkeeper, Defensive, Midfield, and Offensive Scores
 
-Data/Operation Abstraction Design: 
+**Data/Operation Abstraction Design: **
 
 This data is gathered by aggregating FIFA Rankings data of the 32 teams as well as their scores from their individual matches.
 
